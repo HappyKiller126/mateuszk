@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background-color: rgb(190, 189, 188);
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 90px;
+    background-color: dimgrey;
+} 
+
+ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    width: 100%;
+    background-color: dimgrey;
+}
+
+li a {
+    padding: 15px;
+    color: black;
+    background-color: rgb(196, 197, 197);
+    border: 1px solid black;
+}
+
+.baner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    border: 1px solid black;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+
+}
+
+.container-intro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+.strip {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 95px;
+    font-size: 20px;
+    background-color: dimgrey;
+    
+}
+
+.col-lg-12 {
+    background-color: dimgray;
+}
+
+h4 { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: dimgray;
+}
+
+p2 {
+    background-color: dimgray;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
